@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Karg: the w, h and fps are only available for the samehaxe build r27 or newer -->
+<!-- you have to check-out the source tree and build the samhaxe exe yourself! :) -->
+<shx:resources version="10" compress="true" w="640" h="480" fps="30"
+	xmlns:shx="http://mindless-labs.com/samhaxe"
+	xmlns:img="http://mindless-labs.com/samhaxe/modules/Image"
+	xmlns:font="http://mindless-labs.com/samhaxe/modules/Font"
+	xmlns:snd="http://mindless-labs.com/samhaxe/modules/Sound"
+	xmlns:bin="http://mindless-labs.com/samhaxe/modules/Binary">
+
+	<!-- first frame, preloader assets -->
+	<shx:frame>
+		<font:ttf name="FontDefault"				import="fonts/emulator.ttf"/>
+		<font:ttf name="FontLdrGeneric"				import="fonts/RationalInteger.ttf"/>
+		<font:ttf name="FontLdrContent"				import="fonts/ProggyClean.ttf"/>
+	</shx:frame>
+
+	<shx:frame>
+		<bin:binary class="Data_Lang"				import="strings/langlib" genclass="symbolOnly"/>
+		<bin:binary class="Data_SprLib"				import="sprites/sprlib" genclass="symbolOnly"/>			
+	</shx:frame>
+
+</shx:resources>

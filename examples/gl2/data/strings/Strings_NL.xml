@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<package name="AllStrings" lang="nl-NL">
+	<string id="kStringID_LangCode"		value="NL" />
+	<string id="kStringID_Skip"		value="Overslaan" />
+	<string id="kStringID_Play"		value="Spelen" />
+	<string id="kStringID_GameGuide"		value="Spelgids" />
+	<string id="kStringID_Guide"		value="Gids" />
+	<string id="kStringID_Continue"		value="Doorgaan" />
+	<string id="kStringID_Options"		value="Opties" />
+	<string id="kStringID_About"		value="Over" />
+	<string id="kStringID_Help"		value="Help" />
+	<string id="kStringID_Menu"		value="Menu" />
+	<string id="kStringID_MoreGames"		value="Meer spellen!" />
+	<string id="kStringID_Version"		value="Versie" />
+	<string id="kStringID_AnyKey"		value="Klik om door te gaan" />
+	<string id="kStringID_Pause"		value="Pauze" />
+	<string id="kStringID_Resume"		value="Doorspelen" />
+	<string id="kStringID_Restart"		value="Herstarten" />
+	<string id="kStringID_Quit"		value="Stoppen" />
+	<string id="kStringID_Back"		value="Terug" />
+	<string id="kStringID_Prev"		value="Vorige" />
+	<string id="kStringID_Next"		value="Volgende" />
+	<string id="kStringID_Close"		value="Sluiten" />
+	<string id="kStringID_On"		value="Aan" />
+	<string id="kStringID_Off"		value="Uit" />
+	<string id="kStringID_Sound"		value="Geluid" />
+	<string id="kStringID_Music"		value="Muziek" />
+	<string id="kStringID_Splash"		value="Intro" />
+	<string id="kStringID_Quality"		value="Res." />
+	<string id="kStringID_ResetData"		value="Gegevens resetten" />
+	<string id="kStringID_Apply"		value="Toepassen" />
+	<string id="kStringID_Place"		value="Plaatsen" />
+	<string id="kStringID_Clear"		value="Wissen" />
+	<string id="kStringID_SaveMap"		value="Kaart opslaan" />
+	<string id="kStringID_Add"		value="Toevoegen" />
+	<string id="kStringID_Delete"		value="Verwijderen" />
+	<string id="kStringID_TabPlay"		value="Spelen" />
+	<string id="kStringID_TabStory"		value="Verhaal" />
+	<string id="kStringID_BestScore"		value="Beste score" />
+	<string id="kStringID_Mission"		value="Missie" />
+	<string id="kStringID_Character"		value="Personage" />
+	<string id="kStringID_Ok"		value="Oké" />
+	<string id="kStringID_Cancel"		value="Annuleren" />
+	<string id="kStringID_Yes"		value="Ja" />
+	<string id="kStringID_No"		value="Nee" />
+	<string id="kStringID_Abort"		value="Afbreken" />
+	<string id="kStringID_Retry"		value="Opnieuw" />
+	<string id="kStringID_Ignore"		value="Negeren" />
+	<string id="kStringID_Low"		value="Laag" />
+	<string id="kStringID_Medium"		value="Gemiddeld" />
+	<string id="kStringID_High"		value="Hoog" />
+	<string id="kStringID_Best"		value="Best" />
+	<string id="kStringID_GamePaused"		value="Gepauzeerd" />
+	<string id="kStringID_Error"		value="Fout" />
+	<string id="kStringID_NoInfo"		value="Geen info" />
+	<string id="kStringID_PointsAvailable"		value="Beschikbare punten" />
+	<string id="kStringID_ConfirmResetData"		value="<span class='title'>Bevestigen</span><br/>Hiermee wis je alle vorderingen in het spel. Wil je nog steeds doorgaan?" />
+	<string id="kStringID_SiteLock"		value="BEDANKT VOOR JE INTERESSE<br>IN GEBOREN UIT VUUR TD! DIT SPEL KAN ALLEEN WORDEN GESPEELD OP %s." />
+	<string id="kStringID_ModeNormal_Display"		value="Campagne (normaal)" />
+	<string id="kStringID_ModeHell_Display"		value="Campagne (hel)" />
+	<string id="kStringID_ModeArmy_Display"		value="Leger van de duisternis" />
+	<string id="kStringID_ModeEternal_Display"		value="Eeuwige verdoemenis" />
+	<string id="kStringID_ModeUnknown_Display"		value="Onbekende modus" />
+	<string id="kStringID_ModeNormal_Info"		value="Heil en moord!" />
+	<string id="kStringID_ModeHell_Info"		value="Terug? We zijn net aangekomen!" />
+	<string id="kStringID_ModeArmy_Info"		value="We kunnen net zo goed <br>door een muur aanvallen..." />
+	<string id="kStringID_ModeEternal_Info"		value="Beter weinig goede strijders<br>dan veel slechte strijders." />
+	<string id="kStringID_ModeUnknown_Info"		value="Info onbekende modus" />
+	<string id="kStringID_Skills"		value="Vaardigheden" />
+	<string id="kStringID_Epilogue"		value="Epiloog" />
+	<string id="kStringID_IngameHelpTitle1"		value="Kaart" />
+	<string id="kStringID_IngameHelpTitle2"		value="Basisregels" />
+	<string id="kStringID_IngameHelpTitle3"		value="Helden" />
+	<string id="kStringID_IngameHelpTitle4"		value="Vaardigheden" />
+	<string id="kStringID_IngameHelpTitle5"		value="Level omhoog" />
+	<string id="kStringID_IngameHelpTitle6"		value="De vaardighedenboom" />
+	<string id="kStringID_IngameHelpTitle7"		value="Energie en mana" />
+	<string id="kStringID_IngameHelpTitle8"		value="Monstergolven" />
+	<string id="kStringID_IngameHelpTitle9"		value="Andere eigenschappen" />
+	<string id="kStringID_IngameHelpTitle10"		value="Interactieve vaardigheden" />
+	<string id="kStringID_IngameHelp1"		value="Dit is de minikaart. Klik erop om snel over de kaart te navigeren. Je kunt de kaart ook verschuiven met de pijltoetsen." />
+	<string id="kStringID_IngameHelp2"		value="Monsters warpen naar binnen en volgen daarna het pad naar de uitgang." />
+	<string id="kStringID_IngameHelp3"		value="Als een monster de uitgang bereikt, lopen je helden schade op en gaat je energie omlaag." />
+	<string id="kStringID_IngameHelp4"		value="Dit is het heldenrooster. Naarmate je verder komt in de campagne, sluiten zich meer helden bij je aan. Om helden mee te nemen, klik je op hun symbolen." />
+	<string id="kStringID_IngameHelp5"		value="Sleep je helden naar een geschikte locatie en klik nogmaals om ze te plaatsen. Tip: probeer ze zo dicht mogelijk bij de monsterpaden te zetten." />
+	<string id="kStringID_IngameHelp6"		value="Helden kunnen 2 vaardigheden tegelijk actief hebben. De meeste vaardigheden worden automatisch ingezet." />
+	<string id="kStringID_IngameHelp7"		value="Om een vaardigheid te gebruiken, klik je op het vaardigheidssymbool en selecteer je een vaardigheid in de lijst." />
+	<string id="kStringID_IngameHelp8"		value="Om het gebruik van een vaardigheid te annuleren, klik je op het vaardigheidssymbool en selecteer je het stopsymbool in de lijst." />
+	<string id="kStringID_IngameHelp9"		value="Helden verdienen ervaringspunten (XP) en niveaus door monsters te doden." />
+	<string id="kStringID_IngameHelp10"		value="Als helden een niveau omhoog gaan, krijgen ze vaardigheidspunten. Om de vaardigheidsboom te openen, druk je op de gemarkeerde knop of T." />
+	<string id="kStringID_IngameHelp11"		value="Om vaardigheidspunten te gebruiken, klik je op een vaardigheidssymbool. Om vaardigheids- punten te verwijderen, houd je ALT ingedrukt en klik je op een vaardigheidssymbool." />
+	<string id="kStringID_IngameHelp12"		value="Als je niet tevreden bent over de huidige talentopbouw,  kun je de toewijzing altijd resetten." />
+	<string id="kStringID_IngameHelp13"		value="De groene balk is de energiebalk. De blauwe balk is de manabalk." />
+	<string id="kStringID_IngameHelp14"		value="Deze knop stuurt onmiddellijk een monstergolf." />
+	<string id="kStringID_IngameHelp15"		value="Deze knop wijzigt de speelsnelheid (1x, 2x, 4x)." />
+	<string id="kStringID_IngameHelp16"		value="Druk op J om te schakelen tussen de energiebalken van monsters en helden." />
+	<string id="kStringID_IngameHelp17"		value="Selecteer een held en druk daarna op R om het aanvalsbereik van diverse vaardigheden weer te geven." />
+	<string id="kStringID_IngameHelp18"		value="Voor sommige vaardigheden, zoals 'Nachtvleugels' of 'Poort', moet je meer doen. Selecteer de interactieve vaardigheid in de lijst." />
+	<string id="kStringID_IngameHelp19"		value="Er verschijnt een aanwijzer. Je moet een locatie vinden waarop de aanwijzer blauw wordt om de vaardigheid te gebruiken." />
+	<string id="kStringID_HeroDemon"		value="Vleesgeworden demon" />
+	<string id="kStringID_HeroKitsune"		value="Kitsune" />
+	<string id="kStringID_HeroKing"		value="Koning" />
+	<string id="kStringID_HeroAmazon"		value="Schildjonkvrouw" />
+	<string id="kStringID_MonsterRankSoldier"		value="Soldaat" />
+	<string id="kStringID_MonsterRankLeader"		value="Leider" />
+	<string id="kStringID_MonsterRankHero"		value="Held" />
+	<string id="kStringID_MonsterTypeSkeleton"		value="Skelet" />
+	<string id="kStringID_MonsterTypeWraith"		value="Schim" />
+	<string id="kStringID_MonsterTypeCerberus"		value="Cerberus" />
+	<string id="kStringID_MonsterTypeSkull"		value="Vlammende schedel" />
+	<string id="kStringID_MonsterTypeNaga"		value="Naga" />
+	<string id="kStringID_MonsterTypeDevil"		value="Duivel" />
+	<string id="kStringID_MonsterTypeAngel"		value="Engel" />
+	<string id="kStringID_MonsterTypeDragon"		value="Draak" />
+	<string id="kStringID_HP"		value="HP" />
+	<string id="kStringID_XP"		value="XP" />
+	<string id="kStringID_Damage"		value="Schade" />
+	<string id="kStringID_NoInfoDisplay"		value="Geen informatie om weer te geven." />
+	<string id="kStringID_Dead"		value="Dood" />
+	<string id="kStringID_Level"		value="Level" />
+	<string id="kStringID_ManaBurn"		value="Manabrand" />
+	<string id="kStringID_Priest"		value="Priester" />
+	<string id="kStringID_Regeneration"		value="Herstel" />
+	<string id="kStringID_Ressurect"		value="Reïncarneert" />
+	<string id="kStringID_Immune"		value="Immuun voor " />
+	<string id="kStringID_ResistLow"		value="Lage weerstand tegen " />
+	<string id="kStringID_ResistMed"		value="Milde weerstand tegen " />
+	<string id="kStringID_ResistHeavy"		value="Hoge weerstand tegen " />
+	<string id="kStringID_Fire"		value="Vuur" />
+	<string id="kStringID_Cold"		value="IJs" />
+	<string id="kStringID_Lightning"		value="Bliksem" />
+	<string id="kStringID_Magic"		value="Magie" />
+	<string id="kStringID_Physical"		value="Fysiek" />
+	<string id="kStringID_Poison"		value="Gif" />
+	<string id="kStringID_Elements"		value="Elementair" />
+	<string id="kStringID_Slow"		value="Traagheid" />
+	<string id="kStringID_ColdSlow"		value="Bevriezing" />
+	<string id="kStringID_Burn"		value="Verbranding" />
+	<string id="kStringID_Stun"		value="Verlamming" />
+	<string id="kStringID_CriticalHits"		value="Kritieke treffers" />
+	<string id="kStringID_Teleport"		value="Teleportatie" />
+	<string id="kStringID_LowerResistances"		value="Weerstand verlagen" />
+	<string id="kStringID_InstantKill"		value="Dodelijke treffer" />
+	<string id="kStringID_ManaLeech"		value="Manatap" />
+	<string id="kStringID_Wounds"		value="Verwondingen" />
+	<string id="kStringID_RandomMonster"		value="Willekeurig monster" />
+	<string id="kStringID_Count"		value="Aantal" />
+	<string id="kStringID_Maxed"		value="Max.niveau" />
+	<string id="kStringID_Needs"		value="Vereist %s" />
+	<string id="kStringID_NeedsLevel"		value="Vereist heldenniveau %d." />
+	<string id="kStringID_Interactive"		value="Interactief" />
+	<string id="kStringID_NextLevel"		value="Volgend niveau" />
+	<string id="kStringID_CurrentLevel"		value="Huidig niveau" />
+	<string id="kStringID_Mana"		value="Mana" />
+	<string id="kStringID_Recharge"		value="Herladen" />
+	<string id="kStringID_Second"		value="sec" />
+	<string id="kStringID_SplashDamage"		value="Nevenschade" />
+	<string id="kStringID_CriticalChance"		value="Kans op kritieke treffer" />
+	<string id="kStringID_MagicDamage"		value="Magische schade" />
+	<string id="kStringID_SpectralDamage"		value="Spectrale schade" />
+	<string id="kStringID_FireDamage"		value="Vuurschade" />
+	<string id="kStringID_ColdDamage"		value="IJsschade" />
+	<string id="kStringID_LightningDamage"		value="Bliksemschade" />
+	<string id="kStringID_ManaPerHit"		value="Mana/treffer" />
+	<string id="kStringID_ChanceInstantKill"		value="Kans op dodelijke treffer" />
+	<string id="kStringID_ChanceTeleport"		value="Kans op teleportatie" />
+	<string id="kStringID_ChainHit"		value="Kettingreactie" />
+	<string id="kStringID_ChancePierce"		value="Kans op doorboring pantser" />
+	<string id="kStringID_Pierce"		value="Doorboring" />
+	<string id="kStringID_TotalDeath"		value="Slachtoffers" />
+	<string id="kStringID_Criticals"		value="Kritieke treffers" />
+	<string id="kStringID_HPRec"		value="Energieherstel" />
+	<string id="kStringID_ManaRec"		value="Manaherstel" />
+	<string id="kStringID_AttackRange"		value="Aanvalsbereik" />
+	<string id="kStringID_AttackRecharge"		value="Aanval opladen" />
+	<string id="kStringID_MissionStats"		value="Missiestatistieken" />
+	<string id="kStringID_MissionOutcome"		value="Resultaat missie" />
+	<string id="kStringID_MissionUnlocked"		value="Missie vrijgespeeld!" />
+	<string id="kStringID_HeroUnlocked"		value="Held vrijgespeeld!" />
+	<string id="kStringID_Victory"		value="Victorie!" />
+	<string id="kStringID_Defeat"		value="Verslagen!" />
+	<string id="kStringID_Score"		value="Score" />
+	<string id="kStringID_FinalScore"		value="Eindscore" />
+	<string id="kStringID_XPGain"		value="Verdiende XP" />
+	<string id="kStringID_DamageReceived"		value="Opgelopen schade" />
+	<string id="kStringID_MonstersSlipped"		value="Niet-gestopte monsters" />
+	<string id="kStringID_StoryEpilogue"		value="Je hebt de vijand heldhaftig verslagen en laten proeven van je staal en magie. Gefeliciteerd! Je hebt een plaats verdiend in het Leger der Onsterfelijken!" />
+	<string id="kStringID_Mission1_Short"		value="Zuilen van Niphret" />
+	<string id="kStringID_Mission2_Short"		value="Velden van Naamloze Graven" />
+	<string id="kStringID_Mission3_Short"		value="Waterval van Bloed" />
+	<string id="kStringID_Mission4_Short"		value="Tombe van de Gevallen Koning" />
+	<string id="kStringID_Mission5_Short"		value="Toren van de Doder" />
+	<string id="kStringID_Mission6_Short"		value="Crypten van Tovenarij" />
+	<string id="kStringID_Mission7_Short"		value="Hallen van de Tiran" />
+	<string id="kStringID_Mission8_Short"		value="De Kristallen Brug" />
+	<string id="kStringID_Mission9_Short"		value="Vallei van de Dageraad" />
+	<string id="kStringID_Mission10_Short"		value="Citadel der Wolken" />
+	<string id="kStringID_Mission1_Screen"		value="I. Zuilen<br>van<br>Niphret" />
+	<string id="kStringID_Mission2_Screen"		value="II. Velden<br>van<br>Naamloze Graven" />
+	<string id="kStringID_Mission3_Screen"		value="III. Waterval van Bloed" />
+	<string id="kStringID_Mission4_Screen"		value="IV. Tombe<br>van de<br>Gevallen Koning" />
+	<string id="kStringID_Mission5_Screen"		value="V. Toren van<br>de Doder" />
+	<string id="kStringID_Mission6_Screen"		value="VI. Crypten<br>van<br>Tovenarij" />
+	<string id="kStringID_Mission7_Screen"		value="VII. Hallen van de Tiran" />
+	<string id="kStringID_Mission8_Screen"		value="VIII. De<br>Kristallen<br>Brug" />
+	<string id="kStringID_Mission9_Screen"		value="IX. Vallei<br>van de<br>Dageraad" />
+	<string id="kStringID_Mission10_Screen"		value="X. Citadel<br>der<br>Wolken" />
+	<string id="kStringID_Credits_1"		value="Programmeerwerk &amp; ontwerp" />
+	<string id="kStringID_Credits_2"		value="Vormgeving spel" />
+	<string id="kStringID_Credits_3"		value="Vormgeving achtergrond" />
+	<string id="kStringID_Credits_4"		value="Muziek" />
+	<string id="kStringID_Credits_5"		value="Tests" />
+	<string id="kStringID_Credits_6"		value="Geluid van" />
+	<string id="kStringID_Credits_7"		value="Dank aan" />
+	<string id="kStringID_Credits_8"		value="Dit spel is een eerbetoon aan de Diablo-serie, de romans van Robert E. Howard en de muziek van Manowar." />
+	<string id="kStringID_Credits_9"		value="De tools" />
+	<string id="kStringID_Credits_10"		value="Bezoek Piron Games voor meer originele spellen!" />
+	<string id="kStringID_Credits_Version"		value="voor SPIL GAMES" />
+	<string id="kStringID_HelpSection1_Title"		value="Spelmodi" />
+	<string id="kStringID_HelpSection1_1"		value="Campagne (normaal/hel)" />
+	<string id="kStringID_HelpSection1_2"		value="Monsters warpen in een vaste volgorde. Dood alle monsters om te winnen." />
+	<string id="kStringID_HelpSection1_3"		value="Eeuwige verdoemenis" />
+	<string id="kStringID_HelpSection1_4"		value="De warpende monsters krijgen een steeds hoger niveau, van 1 t/m 50. Dood alle monsters om te winnen." />
+	<string id="kStringID_HelpSection1_5"		value="Leger van de duisternis" />
+	<string id="kStringID_HelpSection1_6"		value="Het leger der geraamten komt jouw kant op, en jij moet de wereld redden! Dood alle tegenstanders om te winnen. Als ze de uitgang bereiken, is het meteen game over!" />
+	<string id="kStringID_HelpSection2_Title"		value="Besturing" />
+	<string id="kStringID_HelpSection2_1"		value="Gebruik de pijltoetsen of <span class='helpBodyRed'>W</span>, <span class='helpBodyRed'>S</span>, <span class='helpBodyRed'>A</span>, <span class='helpBodyRed'>D</span> om over de minikaart te navigeren." />
+	<string id="kStringID_HelpSection2_2"		value="Plaats helden op de kaart door rechtsonder op de miniaturen te klikken en daarna een tactische aanvalspositie te selecteren." />
+	<string id="kStringID_HelpSection2_3"		value="Selecteer een held door op het personage op het strijdveld of de miniatuur in het heldenrooster te klikken. Je mag maar één optie tegelijk selecteren." />
+	<string id="kStringID_HelpSection2_4"		value="Gebruik <span class='helpBodyRed'>Esc</span> om een positie, selectie of interactieve spreuk te annuleren." />
+	<string id="kStringID_HelpSection2_5"		value="Druk op <span class='helpBodyRed'>T</span> om de vaardighedenboom van de held weer te geven." />
+	<string id="kStringID_HelpSection2_6"		value="Om een vaardigheidspunt te verwijderen, houd je <span class='helpBodyRed'>ALT</span> ingedrukt en <span class='helpBodyRed'>klik</span> je op een vaardigheidssymbool." />
+	<string id="kStringID_HelpSection2_7"		value="<span class='helpBodyRed'>R</span> schakelt het aanvalsbereik van de held in/uit; <span class='helpBodyRed'>J</span> schakelt de energiebalk van monsters in/uit." />
+	<string id="kStringID_HelpSection2_8"		value="<span class='helpBodyRed'>P</span> pauzeert, <span class='helpBodyRed'>M</span> wijzigt de geluidsinstellingen en <span class='helpBodyRed'>N</span> wijzigt de muziekinstellingen." />
+	<string id="kStringID_HelpSection2_9"		value="Druk op <span class='helpBodyRed'>Q</span> om de instellingen van de resolutie te wijzigen." />
+	<string id="kStringID_HelpSection3_Tips"		value="Tips" />
+	<string id="kStringID_HelpSection3_1"		value="Een held mag maar 2 vaardigheden tegelijk actief hebben. En interactieve vaardigheden zoals 'Poort' en 'Nachtvleugels' mogen alleen gebruikt worden als primaire vaardigheid." />
+	<string id="kStringID_HelpSection3_2"		value="Als je monsters doodt met een niveauverschil van +/- 3, krijg je niet de volledige XP." />
+	<string id="kStringID_HelpSection3_3"		value="Het max. heldenniveau is 50. Het max. vaardighedenniveau is 10." />
+	<string id="kStringID_HelpSection3_4"		value="Je kunt alle vaardigheidspunten altijd resetten vanaf het tabblad 'Vaardighedenboom'." />
+	<string id="kStringID_HelpSection3_5"		value="Monsters die de uitgang halen, richten schade aan bij je helden en doden deze uiteindelijk. Als je alle helden kwijtraakt, is het game over!" />
+	<string id="kStringID_HelpSection3_6"		value="'Hart van Staal' beschermt je reisgezellen tegen schade terwijl 'Gebed van de Krijger' hun energie kan herstellen." />
+	<string id="kStringID_HelpSection3_7"		value="'Poort' en 'Nachtvleugels' zijn vaardigheden die helden op het strijdveld kunnen teleporteren." />
+	<string id="kStringID_HelpSection3_8"		value="Als je problemen hebt met het uitspelen van een level, kun je eerdere gevechten opnieuw spelen om meer XP te krijgen." />
+	<string id="kStringID_HelpSection3_9"		value="Als je vast komt te zitten of vragen hebt, lees je de spelgids voor meer tips en strategieën." />
+	<string id="kStringID_SkillSlash"		value="Slag" />
+	<string id="kStringID_SkillSlashInfo"		value="Voer een basisaanval uit." />
+	<string id="kStringID_SkillHailFire"		value="Heil aan Vuur" />
+	<string id="kStringID_SkillHailFireInfo"		value="Val aan met vuurschade." />
+	<string id="kStringID_SkillBarrage"		value="Spervuur van Klingen" />
+	<string id="kStringID_SkillBarrageInfo"		value="Val alle tegenstanders binnen bereik aan." />
+	<string id="kStringID_SkillNight"		value="Nachtvleugels" />
+	<string id="kStringID_SkillNightInfo"		value="Teleporteer naar een nieuwe locatie op het strijdveld." />
+	<string id="kStringID_SkillStrikeHate"		value="Aanval van Haat" />
+	<string id="kStringID_SkillStrikeHateInfo"		value="Laat vijandelijke verwondingen oncontroleerbaar bloeden." />
+	<string id="kStringID_SkillRage"		value="Woede van de Banneling" />
+	<string id="kStringID_SkillRageInfo"		value="Vergroot de kans op een dodelijke treffer." />
+	<string id="kStringID_SkillFaces"		value="Gezichten van Angst" />
+	<string id="kStringID_SkillFacesInfo"		value="Vertraag tegenstanders terwijl je schade bij ze aanricht." />
+	<string id="kStringID_SkillShriek"		value="Angstaanjagende Schreeuw" />
+	<string id="kStringID_SkillShriekInfo"		value="Schreeuw naar de tegenstander en maak kans om deze te verlammen." />
+	<string id="kStringID_SkillScourge"		value="Gesel van het Kwaad" />
+	<string id="kStringID_SkillScourgeInfo"		value="Richt schade aan bij de vijand met een strijdkreet." />
+	<string id="kStringID_SkillLash"		value="Uitval" />
+	<string id="kStringID_SkillLashInfo"		value="Verhoog de aanvalssnelheid van je reisgezellen met een strijdkreet." />
+	<string id="kStringID_SkillTremble"		value="Siddering" />
+	<string id="kStringID_SkillTrembleInfo"		value="Verlaag de vijandelijke weerstand tegen magie." />
+	<string id="kStringID_SkillImmolation"		value="Slachtoffering" />
+	<string id="kStringID_SkillImmolationInfo"		value="Laat tegenstanders in vlammen opgaan." />
+	<string id="kStringID_SkillSiphon"		value="Overheveling" />
+	<string id="kStringID_SkillSiphonInfo"		value="Steel mana van een tegenstander." />
+	<string id="kStringID_SkillGate"		value="Poort" />
+	<string id="kStringID_SkillGateInfo"		value="Teleporteer naar een andere locatie." />
+	<string id="kStringID_SkillFireStorm"		value="Vuurstorm" />
+	<string id="kStringID_SkillFireStormInfo"		value="Schiet meerdere geleide vuurraketten af." />
+	<string id="kStringID_SkillDeathSky"		value="Dood uit de Lucht" />
+	<string id="kStringID_SkillDeathSkyInfo"		value="Roep meteoren op om je tegenstanders uit te schakelen." />
+	<string id="kStringID_SkillIceShard"		value="IJsscherf" />
+	<string id="kStringID_SkillIceShardInfo"		value="Schiet een ongeleide ijsscherf af." />
+	<string id="kStringID_SkillFrostBite"		value="Bevriezing" />
+	<string id="kStringID_SkillFrostBiteInfo"		value="Schiet een ijsraket af die de tegenstander vertraagt." />
+	<string id="kStringID_SkillFrozen"		value="Bevroren Grond" />
+	<string id="kStringID_SkillFrozenInfo"		value="Rijt de grond open om binnen een bepaald bereik schade aan te richten met ijspegels." />
+	<string id="kStringID_SkillWinter"		value="Toorn van de Winter" />
+	<string id="kStringID_SkillWinterInfo"		value="Laat ijspegels uit de huid van de tegenstander barsten die schade aanrichten bij iedereen binnen bereik." />
+	<string id="kStringID_SkillBlackHand"		value="Zwarte Hand van Niphret" />
+	<string id="kStringID_SkillBlackHandInfo"		value="Roep de koude hand van Niphret op om de zielen van je tegenstanders op te eisen." />
+	<string id="kStringID_SkillSwift"		value="Snelle Aanval" />
+	<string id="kStringID_SkillSwiftInfo"		value="Voer een basisaanval uit." />
+	<string id="kStringID_SkillKillPower"		value="Krachtige Dood" />
+	<string id="kStringID_SkillKillPowerInfo"		value="Verlam de tegenstander met een krachtige slag." />
+	<string id="kStringID_SkillHand"		value="Hand van Verdoemenis" />
+	<string id="kStringID_SkillHandInfo"		value="Val aan met extra elementaire schade." />
+	<string id="kStringID_SkillShatter"		value="Verbrijzeld Schild" />
+	<string id="kStringID_SkillShatterInfo"		value="Verzwak de fysieke verdediging van de tegenstander." />
+	<string id="kStringID_SkillArchers"		value="Boogschutters Klaar!" />
+	<string id="kStringID_SkillArchersInfo"		value="Geef het bevel voor een pijlensalvo." />
+	<string id="kStringID_SkillHeart"		value="Hart van Staal" />
+	<string id="kStringID_SkillHeartInfo"		value="Bescherm jezelf tegen schade van monsters." />
+	<string id="kStringID_SkillBattleHymn"		value="Strijdlied" />
+	<string id="kStringID_SkillBattleHymnInfo"		value="Vergroot de schade van reisgezellen." />
+	<string id="kStringID_SkillPrayer"		value="Gebed van de Krijger" />
+	<string id="kStringID_SkillPrayerInfo"		value="Herstel langzaam de energie van je reisgezellen." />
+	<string id="kStringID_SkillSpHealing"		value="Spirituele Heling" />
+	<string id="kStringID_SkillSpHealingInfo"		value="Herstel de mana van je reisgezellen." />
+	<string id="kStringID_SkillMetalA"		value="Apocalyps van Metaal" />
+	<string id="kStringID_SkillMetalAInfo"		value="Vel alle tegenstanders binnen bereik met de kracht van je zwaard!" />
+	<string id="kStringID_SkillKyudo"		value="Kyudo" />
+	<string id="kStringID_SkillKyudoInfo"		value="Richt schade aan met je boog." />
+	<string id="kStringID_SkillHawk"		value="Aanval van de Havik" />
+	<string id="kStringID_SkillHawkInfo"		value="Kies een doelwit op basis van zwaktes." />
+	<string id="kStringID_SkillHailA"		value="Hagel van Pijlen" />
+	<string id="kStringID_SkillHailAInfo"		value="Schiet een pijlensalvo af." />
+	<string id="kStringID_SkillShockArrow"		value="Pijlschok" />
+	<string id="kStringID_SkillShockArrowInfo"		value="Vuur een elektrisch geladen pijl af." />
+	<string id="kStringID_SkillThunderArrow"		value="Donderpijl" />
+	<string id="kStringID_SkillThunderArrowInfo"		value="Schiet een elektrisch geladen pijl af die bij contact wordt gesplitst." />
+	<string id="kStringID_SkillArrowTime"		value="Pijl des Tijds" />
+	<string id="kStringID_SkillArrowTimeInfo"		value="Schiet een pijl af die de tegenstander kan teleporteren." />
+	<string id="kStringID_SkillStarPath"		value="Pad der Sterren" />
+	<string id="kStringID_SkillStarPathInfo"		value="Verhoog permanent je fysieke aanvalsschade." />
+	<string id="kStringID_SkillSunPath"		value="Pad van de Zon" />
+	<string id="kStringID_SkillSunPathInfo"		value="Verhoog permanent de kans op een kritieke aanval." />
+	<string id="kStringID_SkillMoonPath"		value="Pad van de Maan" />
+	<string id="kStringID_SkillMoonPathInfo"		value="Verhoog permanent de kans op doorboring." />
+	<string id="kStringID_SkillDSky"		value="Dochter van de Lucht" />
+	<string id="kStringID_SkillDSkyInfo"		value="Verhoog permanent je bliksemschade." />
+	<string id="kStringID_Submit"		value="Verzenden" />
+	<string id="kStringID_Paused"		value="Gepauzeerd" />
+	<string id="kStringID_HeroInfoUnlock"		value="Speel missie '%s' om dit vrij te spelen." />
+	<string id="kStringID_HeroInfoHint"		value="Selecteer een held of monster op de kaart. Je kunt helden ook direct in het heldenrooster selecteren." />
+	<string id="kStringID_Heal1"		value="%s HP helen gedurende %s sec." />
+	<string id="kStringID_Heal2"		value="%s HP permanent helen." />
+	<string id="kStringID_Locked"		value="Nog op slot" />
+	<string id="kStringID_HitsEnemies"		value="Raak %d tegenstanders." />
+	<string id="kStringID_Permanent"		value="Permanent" />
+	<string id="kStringID_ResistTo"		value="Weerstand tegen" />
+	<string id="kStringID_BuffSlow1"		value="Permanent vertragingseffect van %s%%." />
+	<string id="kStringID_BuffSlow2"		value="Vertragingseffect van %s%% gedurende %s seconden." />
+	<string id="kStringID_BuffSlow3"		value="%s%% kans op permanente vertraging van %s%%." />
+	<string id="kStringID_BuffSlow4"		value="%s%% kans op vertraging van %s%% gedurende %s seconden." />
+	<string id="kStringID_BuffColdSlow1"		value="Permanent bevriezingseffect van %s%%." />
+	<string id="kStringID_BuffColdSlow2"		value="Bevriezingseffect van %s%% gedurende %s seconden." />
+	<string id="kStringID_BuffColdSlow3"		value="%s%% kans op permanente bevriezing van %s%%." />
+	<string id="kStringID_BuffColdSlow4"		value="%s%% kans op bevriezing van %s%% gedurende %s seconden." />
+	<string id="kStringID_BuffStun1"		value="Permanente verlamming." />
+	<string id="kStringID_BuffStun2"		value="Verlamming gedurende %s seconden." />
+	<string id="kStringID_BuffStun3"		value="%s%% kans op permanente verlamming." />
+	<string id="kStringID_BuffStun4"		value="%s%% kans op verlamming gedurende %s seconden." />
+	<string id="kStringID_BuffBurn1"		value="Permanente vuurschade van %s." />
+	<string id="kStringID_BuffBurn2"		value="Vuurschade van %s gedurende %s seconden." />
+	<string id="kStringID_BuffBurn3"		value="%s%% kans op permanente vuurschade van %s." />
+	<string id="kStringID_BuffBurn4"		value="%s%% kans op vuurschade van %s gedurende %s seconden." />
+	<string id="kStringID_BuffPoison1"		value="Permanente gifschade van %s." />
+	<string id="kStringID_BuffPoison2"		value="Gifschade van %s gedurende %s seconden." />
+	<string id="kStringID_BuffWound1"		value="Permanente bloedschade van %s." />
+	<string id="kStringID_BuffWound2"		value="Bloedschade van %s gedurende %s seconden." />
+	<string id="kStringID_BuffWound3"		value="%s%% kans op permanente bloedschade van %s." />
+	<string id="kStringID_BuffWound4"		value="%s%% kans op bloedschade van %s gedurende %s seconden." />
+	<string id="kStringID_GameName"		value="Gemaakt uit vuur" />
+	<string id="kStringID_Lang"		value="Nederlands" />
+</package>

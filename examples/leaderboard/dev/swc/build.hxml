@@ -1,0 +1,14 @@
+# Flash10
+-cp E:\Home\Karg\Projects\Haxe\GameLib2\src
+-cp E:\Home\Karg\Projects\Haxe\Lib
+-cp ..\..\src
+-swf ..\..\bin\swc\leaderboard.swc
+-swf-lib ..\data\data.swf
+-swf-version 10
+-main GameApp
+#-D FirebugTraces
+-D network-sandbox
+-D VersionPironGames
+-D LeaderboardLocalhost
+# Karg: please note that the line below may break a multi-frame data swf and transform it in a single-frame swf -> no preloader
+#-swf-header 320:240:24:000000

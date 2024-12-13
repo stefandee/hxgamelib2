@@ -1,0 +1,10 @@
+-cp ..\..\..\..\src
+-cp ..\..\src
+-swf-version 10
+-swf ..\..\bin\gl2\Test.swf
+-swf-lib ..\..\data\data.swf
+-main Test
+-D FirebugTraces
+-D network-sandbox
+-swf-header 640:480:33:000000
+--flash-use-stage

@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<package name="AllStrings" lang="ru-RU">
+	<string id="kStringID_LangCode"		value="RU" />
+	<string id="kStringID_Skip"		value="Пропустить" />
+	<string id="kStringID_Play"		value="Играть" />
+	<string id="kStringID_GameGuide"		value="Прохождение" />
+	<string id="kStringID_Guide"		value="Как играть" />
+	<string id="kStringID_Continue"		value="Продолжить" />
+	<string id="kStringID_Options"		value="Настройки" />
+	<string id="kStringID_About"		value="Об игре" />
+	<string id="kStringID_Help"		value="Помощь" />
+	<string id="kStringID_Menu"		value="Меню" />
+	<string id="kStringID_MoreGames"		value="Другие игры!" />
+	<string id="kStringID_Version"		value="Версия" />
+	<string id="kStringID_AnyKey"		value="Щелкни для продолжения" />
+	<string id="kStringID_Pause"		value="Пауза" />
+	<string id="kStringID_Resume"		value="Продолжить" />
+	<string id="kStringID_Restart"		value="Сначала" />
+	<string id="kStringID_Quit"		value="Выход" />
+	<string id="kStringID_Back"		value="Назад" />
+	<string id="kStringID_Prev"		value="Пред." />
+	<string id="kStringID_Next"		value="След." />
+	<string id="kStringID_Close"		value="Закрыть" />
+	<string id="kStringID_On"		value="Да" />
+	<string id="kStringID_Off"		value="Нет" />
+	<string id="kStringID_Sound"		value="Звук" />
+	<string id="kStringID_Music"		value="Музыка" />
+	<string id="kStringID_Splash"		value="Видео" />
+	<string id="kStringID_Quality"		value="Кач." />
+	<string id="kStringID_ResetData"		value="Сброс данных" />
+	<string id="kStringID_Apply"		value="Применить" />
+	<string id="kStringID_Place"		value="Разместить" />
+	<string id="kStringID_Clear"		value="Очистить" />
+	<string id="kStringID_SaveMap"		value="Сохранить карту" />
+	<string id="kStringID_Add"		value="Добавить" />
+	<string id="kStringID_Delete"		value="Удалить" />
+	<string id="kStringID_TabPlay"		value="Играть" />
+	<string id="kStringID_TabStory"		value="Сюжет" />
+	<string id="kStringID_BestScore"		value="Рекорд" />
+	<string id="kStringID_Mission"		value="Миссия" />
+	<string id="kStringID_Character"		value="Герой" />
+	<string id="kStringID_Ok"		value="ОК" />
+	<string id="kStringID_Cancel"		value="Отмена" />
+	<string id="kStringID_Yes"		value="Да" />
+	<string id="kStringID_No"		value="Нет" />
+	<string id="kStringID_Abort"		value="низкое" />
+	<string id="kStringID_Retry"		value="высокое" />
+	<string id="kStringID_Ignore"		value="лучшее" />
+	<string id="kStringID_Low"		value="низкое" />
+	<string id="kStringID_Medium"		value="среднее" />
+	<string id="kStringID_High"		value="высокое" />
+	<string id="kStringID_Best"		value="лучшее" />
+	<string id="kStringID_GamePaused"		value="Пауза" />
+	<string id="kStringID_Error"		value="Ошибка" />
+	<string id="kStringID_NoInfo"		value="Нет данных" />
+	<string id="kStringID_PointsAvailable"		value="Доступно очков" />
+	<string id="kStringID_ConfirmResetData"		value="<span class='title'>Подтверждение</span><br/>Это приведет к удалению ВСЕХ твоих достижений в игре. Продолжать?" />
+	<string id="kStringID_SiteLock"		value="СПАСИБО ЗА ИНТЕРЕС, ПРОЯВЛЕННЫЙ К ИГРЕ!<br>В ЭТУ ИГРУ МОЖНО СЫГРАТЬ ТОЛЬКО НА %s." />
+	<string id="kStringID_ModeNormal_Display"		value="Кампания (обычная)" />
+	<string id="kStringID_ModeHell_Display"		value="Кампания (ад)" />
+	<string id="kStringID_ModeArmy_Display"		value="Армия тьмы" />
+	<string id="kStringID_ModeEternal_Display"		value="Вечное проклятие" />
+	<string id="kStringID_ModeUnknown_Display"		value="Неизвестный режим" />
+	<string id="kStringID_ModeNormal_Info"		value="Встреть и убей!" />
+	<string id="kStringID_ModeHell_Info"		value="Отступать? Мы только<br/>прибыли!" />
+	<string id="kStringID_ModeArmy_Info"		value="Все равно что пытаться<br>пробить лбом стену…" />
+	<string id="kStringID_ModeEternal_Info"		value="Побеждай не числом,<br>а умением!" />
+	<string id="kStringID_ModeUnknown_Info"		value="Подробности" />
+	<string id="kStringID_Skills"		value="Умения" />
+	<string id="kStringID_Epilogue"		value="Эпилог" />
+	<string id="kStringID_IngameHelpTitle1"		value="Карта" />
+	<string id="kStringID_IngameHelpTitle2"		value="Основные правила" />
+	<string id="kStringID_IngameHelpTitle3"		value="Герои" />
+	<string id="kStringID_IngameHelpTitle4"		value="Умения" />
+	<string id="kStringID_IngameHelpTitle5"		value="Повышение уровня" />
+	<string id="kStringID_IngameHelpTitle6"		value="Дерево умений" />
+	<string id="kStringID_IngameHelpTitle7"		value="Здоровье и мана" />
+	<string id="kStringID_IngameHelpTitle8"		value="Волны монстров" />
+	<string id="kStringID_IngameHelpTitle9"		value="Другие возможности" />
+	<string id="kStringID_IngameHelpTitle10"		value="Интерактивные умения" />
+	<string id="kStringID_IngameHelp1"		value="Это миникарта. Щелкай по ней, чтобы быстро перемещаться по карте. Кроме того, для прокрутки карты можно использовать клавиши-стрелки." />
+	<string id="kStringID_IngameHelp2"		value="Монстры появляются на уровне и двигаются по дороге к выходу." />
+	<string id="kStringID_IngameHelp3"		value="Если монстр доберется до портала выхода, он нанесет урон как здоровью твоих героев, так и твоему здоровью." />
+	<string id="kStringID_IngameHelp4"		value="Это список героев. По мере прохождения кампании  к тебе будут присоединяться новые герои. Чтобы выбрать героев, щелкай мышью по их портретам." />
+	<string id="kStringID_IngameHelp5"		value="Чтобы разместить героя на карте, перетащи его в нужное место и щелкни мышью. Совет: старайся размещать их как можно ближе к тропам монстров." />
+	<string id="kStringID_IngameHelp6"		value="В любой момент времени герой может использовать 2 умения. Большинство умений применяются автоматически." />
+	<string id="kStringID_IngameHelp7"		value="Чтобы использовать то или иное умение, щелкни по значку умения и выбери умение из списка." />
+	<string id="kStringID_IngameHelp8"		value="Чтобы отменить использование умения, щелкни по значку умения и выбери в списке значок отмены." />
+	<string id="kStringID_IngameHelp9"		value="Герои зарабатывают очки опыта (XP) и уровни, убивая монстров." />
+	<string id="kStringID_IngameHelp10"		value="При повышении уровня герой получает очки умений. Чтобы открыть дерево умений, нажми выделенную кнопку или нажми клавишу T." />
+	<string id="kStringID_IngameHelp11"		value="Чтобы потратить очки умений, щелкни по значку умения. Чтобы отменить распределение очков, щелкни по значку умения, удерживая ALT." />
+	<string id="kStringID_IngameHelp12"		value="Если тебе не нравится текущее развитие героя, ты в любой момент можешь перераспределить очки умений." />
+	<string id="kStringID_IngameHelp13"		value="Зеленая полоска – показатель здоровья героя. Голубая полоска – запас маны." />
+	<string id="kStringID_IngameHelp14"		value="Эта кнопка вызывает очередную волну монстров немедленно." />
+	<string id="kStringID_IngameHelp15"		value="Эта кнопка регулирует скорость игры (1x, 2x, 4x)." />
+	<string id="kStringID_IngameHelp16"		value="Нажимай J, чтобы показать или убрать полоски, обозначающие запас здоровья героев и монстров." />
+	<string id="kStringID_IngameHelp17"		value="Чтобы увидеть радиус действия различных умений, выбери героя, а затем нажми R." />
+	<string id="kStringID_IngameHelp18"		value="Некоторые умения, например &amp;quot;Крылья&amp;quot; или &amp;quot;Врата&amp;quot;, требуют твоего участия. Выбери такое умение из списка." />
+	<string id="kStringID_IngameHelp19"		value="Появится курсор. Чтобы использовать выбранное умение, нужно найти место, где курсор станет голубым." />
+	<string id="kStringID_HeroDemon"		value="Демон во плоти" />
+	<string id="kStringID_HeroKitsune"		value="Кицунэ" />
+	<string id="kStringID_HeroKing"		value="Король" />
+	<string id="kStringID_HeroAmazon"		value="Мастер щита" />
+	<string id="kStringID_MonsterRankSoldier"		value="Воин" />
+	<string id="kStringID_MonsterRankLeader"		value="Вождь" />
+	<string id="kStringID_MonsterRankHero"		value="Герой" />
+	<string id="kStringID_MonsterTypeSkeleton"		value="Скелет" />
+	<string id="kStringID_MonsterTypeWraith"		value="Призрак" />
+	<string id="kStringID_MonsterTypeCerberus"		value="Цербер" />
+	<string id="kStringID_MonsterTypeSkull"		value="Пылающий череп" />
+	<string id="kStringID_MonsterTypeNaga"		value="Нага" />
+	<string id="kStringID_MonsterTypeDevil"		value="Бес" />
+	<string id="kStringID_MonsterTypeAngel"		value="Ангел" />
+	<string id="kStringID_MonsterTypeDragon"		value="Дракон" />
+	<string id="kStringID_HP"		value="HP" />
+	<string id="kStringID_XP"		value="XP" />
+	<string id="kStringID_Damage"		value="Урон" />
+	<string id="kStringID_NoInfoDisplay"		value="Нет данных." />
+	<string id="kStringID_Dead"		value="Нежить" />
+	<string id="kStringID_Level"		value="Уровень" />
+	<string id="kStringID_ManaBurn"		value="Крадет ману" />
+	<string id="kStringID_Priest"		value="Жрец" />
+	<string id="kStringID_Regeneration"		value="Регенерирует" />
+	<string id="kStringID_Ressurect"		value="Возрождается" />
+	<string id="kStringID_Immune"		value="Иммунитет: " />
+	<string id="kStringID_ResistLow"		value="Слегка устойчив: " />
+	<string id="kStringID_ResistMed"		value="Устойчив: " />
+	<string id="kStringID_ResistHeavy"		value="Очень устойчив: " />
+	<string id="kStringID_Fire"		value="огонь" />
+	<string id="kStringID_Cold"		value="холод" />
+	<string id="kStringID_Lightning"		value="молния" />
+	<string id="kStringID_Magic"		value="магия" />
+	<string id="kStringID_Physical"		value="физический урон" />
+	<string id="kStringID_Poison"		value="яд" />
+	<string id="kStringID_Elements"		value="стихии" />
+	<string id="kStringID_Slow"		value="замедление" />
+	<string id="kStringID_ColdSlow"		value="заморозка" />
+	<string id="kStringID_Burn"		value="горение" />
+	<string id="kStringID_Stun"		value="паралич" />
+	<string id="kStringID_CriticalHits"		value="критический удар" />
+	<string id="kStringID_Teleport"		value="телепорт" />
+	<string id="kStringID_LowerResistances"		value="снижение стойкости" />
+	<string id="kStringID_InstantKill"		value="мгновенная смерть" />
+	<string id="kStringID_ManaLeech"		value="кража маны" />
+	<string id="kStringID_Wounds"		value="раны" />
+	<string id="kStringID_RandomMonster"		value="Случайный монстр" />
+	<string id="kStringID_Count"		value="Число" />
+	<string id="kStringID_Maxed"		value="Макс. уровень" />
+	<string id="kStringID_Needs"		value="Требует: %s" />
+	<string id="kStringID_NeedsLevel"		value="Требуемый уровень: %d." />
+	<string id="kStringID_Interactive"		value="Интерактивн." />
+	<string id="kStringID_NextLevel"		value="Следующий уровень" />
+	<string id="kStringID_CurrentLevel"		value="Текущ.уровень" />
+	<string id="kStringID_Mana"		value="Мана" />
+	<string id="kStringID_Recharge"		value="Перезарядка" />
+	<string id="kStringID_Second"		value="с" />
+	<string id="kStringID_SplashDamage"		value="Ранит соседей" />
+	<string id="kStringID_CriticalChance"		value="шанс критического удара" />
+	<string id="kStringID_MagicDamage"		value="магический урон" />
+	<string id="kStringID_SpectralDamage"		value="спектральн.урон" />
+	<string id="kStringID_FireDamage"		value="урон огнем" />
+	<string id="kStringID_ColdDamage"		value="урон холодом" />
+	<string id="kStringID_LightningDamage"		value="урон молнией" />
+	<string id="kStringID_ManaPerHit"		value="маны за удар" />
+	<string id="kStringID_ChanceInstantKill"		value="шанс мгн.смерти" />
+	<string id="kStringID_ChanceTeleport"		value="шанс телепортации" />
+	<string id="kStringID_ChainHit"		value="Серия ударов" />
+	<string id="kStringID_ChancePierce"		value="шанс пробить броню" />
+	<string id="kStringID_Pierce"		value="Пробивает броню" />
+	<string id="kStringID_TotalDeath"		value="мгн.смертей" />
+	<string id="kStringID_Criticals"		value="крит.ударов" />
+	<string id="kStringID_HPRec"		value="восст.здоровья" />
+	<string id="kStringID_ManaRec"		value="восст.маны" />
+	<string id="kStringID_AttackRange"		value="радиус атаки" />
+	<string id="kStringID_AttackRecharge"		value="перезарядка" />
+	<string id="kStringID_MissionStats"		value="Статистика" />
+	<string id="kStringID_MissionOutcome"		value="Исход миссии" />
+	<string id="kStringID_MissionUnlocked"		value="Доступна новая миссия!" />
+	<string id="kStringID_HeroUnlocked"		value="Доступен новый герой!" />
+	<string id="kStringID_Victory"		value="Победа!" />
+	<string id="kStringID_Defeat"		value="Поражение..." />
+	<string id="kStringID_Score"		value="Счет" />
+	<string id="kStringID_FinalScore"		value="Общий счет" />
+	<string id="kStringID_XPGain"		value="Набрано опыта" />
+	<string id="kStringID_DamageReceived"		value="Получено повреждений" />
+	<string id="kStringID_MonstersSlipped"		value="Прошло монстров" />
+	<string id="kStringID_StoryEpilogue"		value="Тебе удалось отразить натиск врагов сталью и магией. Поздравляем! Теперь ты по праву займешь место в пантеоне бессмертных!" />
+	<string id="kStringID_Mission1_Short"		value="Адские колонны" />
+	<string id="kStringID_Mission2_Short"		value="Безымянные могилы" />
+	<string id="kStringID_Mission3_Short"		value="Кровавые водопады" />
+	<string id="kStringID_Mission4_Short"		value="Гробница короля" />
+	<string id="kStringID_Mission5_Short"		value="Башня палача" />
+	<string id="kStringID_Mission6_Short"		value="Подземелья магов" />
+	<string id="kStringID_Mission7_Short"		value="Залы тирана" />
+	<string id="kStringID_Mission8_Short"		value="Хрустальный мост" />
+	<string id="kStringID_Mission9_Short"		value="Рассветная долина" />
+	<string id="kStringID_Mission10_Short"		value="Облачная крепость" />
+	<string id="kStringID_Mission1_Screen"		value="I. Адские<br>колонны" />
+	<string id="kStringID_Mission2_Screen"		value="II. Безымянные<br>могилы" />
+	<string id="kStringID_Mission3_Screen"		value="III. Кровавые<br>водопады" />
+	<string id="kStringID_Mission4_Screen"		value="IV. Гробница<br>короля" />
+	<string id="kStringID_Mission5_Screen"		value="V. Башня<br>палача" />
+	<string id="kStringID_Mission6_Screen"		value="VI. Подземелья<br>магов" />
+	<string id="kStringID_Mission7_Screen"		value="VII. Залы тирана" />
+	<string id="kStringID_Mission8_Screen"		value="VIII. Хрустальный<br>мост" />
+	<string id="kStringID_Mission9_Screen"		value="IX. Рассветная<br>долина" />
+	<string id="kStringID_Mission10_Screen"		value="X. Облачная<br>крепость" />
+	<string id="kStringID_Credits_1"		value="Программирование и дизайн" />
+	<string id="kStringID_Credits_2"		value="Художник" />
+	<string id="kStringID_Credits_3"		value="Оформление фона" />
+	<string id="kStringID_Credits_4"		value="Музыка" />
+	<string id="kStringID_Credits_5"		value="Тестирование" />
+	<string id="kStringID_Credits_6"		value="Звуковые эффекты предоставлены" />
+	<string id="kStringID_Credits_7"		value="Благодарим" />
+	<string id="kStringID_Credits_8"		value="Эта игра посвящается серии Diablo, романам Роберта Говарда и музыке Manowar." />
+	<string id="kStringID_Credits_9"		value="Программные средства" />
+	<string id="kStringID_Credits_10"		value="Посетите сайт Piron Games, чтобы сыграть в другие оригинальные игры!" />
+	<string id="kStringID_Credits_Version"		value="для SPIL GAMES" />
+	<string id="kStringID_HelpSection1_Title"		value="Режимы игры" />
+	<string id="kStringID_HelpSection1_1"		value="Кампания (нормальная/ад)" />
+	<string id="kStringID_HelpSection1_2"		value="Монстры появляются в заранее определенном порядке. Чтобы победить, убей всех монстров." />
+	<string id="kStringID_HelpSection1_3"		value="Вечное проклятие" />
+	<string id="kStringID_HelpSection1_4"		value="Уровень появляющихся монстров повышается от 1 до 50. Чтобы победить, убей всех монстров." />
+	<string id="kStringID_HelpSection1_5"		value="Армия тьмы" />
+	<string id="kStringID_HelpSection1_6"		value="К тебе направляются полчища скелетов, и отразить их натиск можешь только ты! Чтобы победить, убей их всех, но помни: если хоть один прорвется к выходу, игра закончится!" />
+	<string id="kStringID_HelpSection2_Title"		value="Управление" />
+	<string id="kStringID_HelpSection2_1"		value="Используй стрелки или <span class='helpBodyRed'>W</span>, <span class='helpBodyRed'>S</span>, <span class='helpBodyRed'>A</span>, <span class='helpBodyRed'>D</span> для прокрутки миникарты." />
+	<string id="kStringID_HelpSection2_2"		value="Размещай героев на карте, щелкая по их портретам в правом нижнем углу, а затем выбирая подходящее место." />
+	<string id="kStringID_HelpSection2_3"		value="Чтобы выбрать героя, щелкни по его фигурке на карте или по портрету в списке. Одновременно может быть выбран только один герой." />
+	<string id="kStringID_HelpSection2_4"		value="Используй <span class='helpBodyRed'>Esc</span>, чтобы оменить размещение, выбор или интерактивное умение." />
+	<string id="kStringID_HelpSection2_5"		value="Чтобы увидеть дерево умений героя, нажми <span class='helpBodyRed'>T</span>." />
+	<string id="kStringID_HelpSection2_6"		value="Чтобы снять потраченное очко умения, <span class='helpBodyRed'>щелкни</span> по значку умения, удерживая <span class='helpBodyRed'>ALT</span>." />
+	<string id="kStringID_HelpSection2_7"		value="<span class='helpBodyRed'>R</span> показывает радиус действия умений героев; <span class='helpBodyRed'>J</span> показывает полоску здоровья монстров." />
+	<string id="kStringID_HelpSection2_8"		value="<span class='helpBodyRed'>P</span> – пауза, <span class='helpBodyRed'>M</span> – настройка звука, <span class='helpBodyRed'>N</span> – настройка музыки." />
+	<string id="kStringID_HelpSection2_9"		value="Нажимай <span class='helpBodyRed'>Q</span>, чтобы изменить качество изображения." />
+	<string id="kStringID_HelpSection3_Tips"		value="Советы" />
+	<string id="kStringID_HelpSection3_1"		value="Одновременно герой может использовать только 2 умения. Интерактивные умения, например &amp;quot;Врата&amp;quot; или &amp;quot;Крылья&amp;quot;, могут использоваться только в качестве основных." />
+	<string id="kStringID_HelpSection3_2"		value="За убийство монстров, уровень которых отличается от уровня героя на 3 или более, герой получает меньше опыта. " />
+	<string id="kStringID_HelpSection3_3"		value="Максимальный уровень героя 50, максимальный уровень умения 10." />
+	<string id="kStringID_HelpSection3_4"		value="Очки умений можно в любой момент перераспределить, используя дерево умений." />
+	<string id="kStringID_HelpSection3_5"		value="Монстры, прорвавшиеся к выходу, наносят повреждения героям и могут их убить. Если погибнут все твои герои, игра закончится!" />
+	<string id="kStringID_HelpSection3_6"		value="&amp;quot;Стальное сердце&amp;quot; защищает твоих союзников от повреждений, а &amp;quot;Молитва воина&amp;quot; восстанавливает их здоровье." />
+	<string id="kStringID_HelpSection3_7"		value="&amp;quot;Врата&amp;quot; и &amp;quot;Крылья&amp;quot; позволяют героям перемещаться по полю боя." />
+	<string id="kStringID_HelpSection3_8"		value="Если у тебя не выходит пройти очередной уровень, попробуй набраться опыта, снова проходя предыдущие уровни." />
+	<string id="kStringID_HelpSection3_9"		value="Если застрянешь или у тебя возникнут вопросы, загляни в прохождение; там ты найдешь советы и стратегии." />
+	<string id="kStringID_SkillSlash"		value="Рубка" />
+	<string id="kStringID_SkillSlashInfo"		value="Основной атакующий удар." />
+	<string id="kStringID_SkillHailFire"		value="Сила огня" />
+	<string id="kStringID_SkillHailFireInfo"		value="Наносит урон огнем." />
+	<string id="kStringID_SkillBarrage"		value="Шквал лезвий" />
+	<string id="kStringID_SkillBarrageInfo"		value="Атакует всех врагов поблизости." />
+	<string id="kStringID_SkillNight"		value="Крылья" />
+	<string id="kStringID_SkillNightInfo"		value="Переносит на другое место на поле боя." />
+	<string id="kStringID_SkillStrikeHate"		value="Ненависть" />
+	<string id="kStringID_SkillStrikeHateInfo"		value="Раны врага продолжают кровоточить." />
+	<string id="kStringID_SkillRage"		value="Ярость нечестивого" />
+	<string id="kStringID_SkillRageInfo"		value="Повышает шанс убить одним ударом." />
+	<string id="kStringID_SkillFaces"		value="Лик страха" />
+	<string id="kStringID_SkillFacesInfo"		value="Замедляет врагов, нанося им повреждения." />
+	<string id="kStringID_SkillShriek"		value="Леденящий вопль" />
+	<string id="kStringID_SkillShriekInfo"		value="Крик, способный парализовать врага." />
+	<string id="kStringID_SkillScourge"		value="Злоба" />
+	<string id="kStringID_SkillScourgeInfo"		value="Боевой клич, наносящий повреждения врагам." />
+	<string id="kStringID_SkillLash"		value="Бич" />
+	<string id="kStringID_SkillLashInfo"		value="Боевой клич, повышающий скорость атак союзников." />
+	<string id="kStringID_SkillTremble"		value="Трепет" />
+	<string id="kStringID_SkillTrembleInfo"		value="Снижает устойчивость врага к магии." />
+	<string id="kStringID_SkillImmolation"		value="Воспламенение" />
+	<string id="kStringID_SkillImmolationInfo"		value="Враги вспыхивают огнем." />
+	<string id="kStringID_SkillSiphon"		value="Опустошение" />
+	<string id="kStringID_SkillSiphonInfo"		value="Крадет ману у врага." />
+	<string id="kStringID_SkillGate"		value="Врата" />
+	<string id="kStringID_SkillGateInfo"		value="Перемещает по полю боя." />
+	<string id="kStringID_SkillFireStorm"		value="Огненный шторм" />
+	<string id="kStringID_SkillFireStormInfo"		value="Выпускает несколько самонаводящихся огненных стрел." />
+	<string id="kStringID_SkillDeathSky"		value="Смерть с неба" />
+	<string id="kStringID_SkillDeathSkyInfo"		value="На врагов обрушивается метеоритный дождь." />
+	<string id="kStringID_SkillIceShard"		value="Осколок льда" />
+	<string id="kStringID_SkillIceShardInfo"		value="Выпускает неуправляемый осколок льда." />
+	<string id="kStringID_SkillFrostBite"		value="Обморожение" />
+	<string id="kStringID_SkillFrostBiteInfo"		value="Ледяная стрела, замедляющая врага" />
+	<string id="kStringID_SkillFrozen"		value="Мерзлота" />
+	<string id="kStringID_SkillFrozenInfo"		value="Заставляет землю трескаться, поражая врагов ледяными шипами." />
+	<string id="kStringID_SkillWinter"		value="Сила зимы" />
+	<string id="kStringID_SkillWinterInfo"		value="С кожи врага слетают осколки льда, ранящие всех, кто оказался рядом." />
+	<string id="kStringID_SkillBlackHand"		value="Рука демона" />
+	<string id="kStringID_SkillBlackHandInfo"		value="Вызывает руку демона, ворующую души врагов." />
+	<string id="kStringID_SkillSwift"		value="Быстрый удар" />
+	<string id="kStringID_SkillSwiftInfo"		value="Основной атакующий удар." />
+	<string id="kStringID_SkillKillPower"		value="Смертоносная мощь" />
+	<string id="kStringID_SkillKillPowerInfo"		value="Парализует врага мощным ударом" />
+	<string id="kStringID_SkillHand"		value="Рука судьбы" />
+	<string id="kStringID_SkillHandInfo"		value="Наносит дополнительный урон магией стихий." />
+	<string id="kStringID_SkillShatter"		value="Ржавая броня" />
+	<string id="kStringID_SkillShatterInfo"		value="Снижает физическую защиту врага." />
+	<string id="kStringID_SkillArchers"		value="Лучники готовы!" />
+	<string id="kStringID_SkillArchersInfo"		value="Призывает ливень стрел!" />
+	<string id="kStringID_SkillHeart"		value="Стальное сердце" />
+	<string id="kStringID_SkillHeartInfo"		value="Защищает героя от ударов монстров." />
+	<string id="kStringID_SkillBattleHymn"		value="Боевой гимн" />
+	<string id="kStringID_SkillBattleHymnInfo"		value="Увеличивает урон, наносимый союзниками." />
+	<string id="kStringID_SkillPrayer"		value="Молитва воина" />
+	<string id="kStringID_SkillPrayerInfo"		value="Медленно восстанавливает здоровье союзников." />
+	<string id="kStringID_SkillSpHealing"		value="Исцеление духа" />
+	<string id="kStringID_SkillSpHealingInfo"		value="Восстанавливает ману союзников." />
+	<string id="kStringID_SkillMetalA"		value="Стальной Апокалипсис" />
+	<string id="kStringID_SkillMetalAInfo"		value="Поражает всех врагов поблизости ударами твоего меча." />
+	<string id="kStringID_SkillKyudo"		value="Мастер лука" />
+	<string id="kStringID_SkillKyudoInfo"		value="Наносит повреждения стрелами." />
+	<string id="kStringID_SkillHawk"		value="Удар ястреба" />
+	<string id="kStringID_SkillHawkInfo"		value="Поражает врага исходя из его слабостей." />
+	<string id="kStringID_SkillHailA"		value="Ливень стрел" />
+	<string id="kStringID_SkillHailAInfo"		value="Выпускает ливень стрел." />
+	<string id="kStringID_SkillShockArrow"		value="Электрострела" />
+	<string id="kStringID_SkillShockArrowInfo"		value="Выпускает стрелу, заряженную электричеством." />
+	<string id="kStringID_SkillThunderArrow"		value="Громовая стрела" />
+	<string id="kStringID_SkillThunderArrowInfo"		value="Выпускает стрелу, заряженную электричеством и расщепляющуюся при попадании." />
+	<string id="kStringID_SkillArrowTime"		value="Стрела времени" />
+	<string id="kStringID_SkillArrowTimeInfo"		value="Выпускает стрелу, которая может перенести монстра в другое место." />
+	<string id="kStringID_SkillStarPath"		value="Путь звезд" />
+	<string id="kStringID_SkillStarPathInfo"		value="Навсегда увеличивает наносимый физический урон." />
+	<string id="kStringID_SkillSunPath"		value="Путь солнца" />
+	<string id="kStringID_SkillSunPathInfo"		value="Навсегда увеличивает шанс критического удара." />
+	<string id="kStringID_SkillMoonPath"		value="Путь луны" />
+	<string id="kStringID_SkillMoonPathInfo"		value="Навсегда увеличивает шанс пробить броню." />
+	<string id="kStringID_SkillDSky"		value="Дочь неба" />
+	<string id="kStringID_SkillDSkyInfo"		value="Навсегда увеличивает наносимый урон молнией." />
+	<string id="kStringID_Submit"		value="Сохранить" />
+	<string id="kStringID_Paused"		value="Пауза" />
+	<string id="kStringID_HeroInfoUnlock"		value="Вначале пройди миссию '%s'." />
+	<string id="kStringID_HeroInfoHint"		value="Выбери героя или монстра на карте. Кроме того, можно быстро выбрать героя в списке." />
+	<string id="kStringID_Heal1"		value="Исцеляет %s HP в течение %s с." />
+	<string id="kStringID_Heal2"		value="Исцеляет %s HP сразу." />
+	<string id="kStringID_Locked"		value="Недоступно" />
+	<string id="kStringID_HitsEnemies"		value="Поражает %d врагов." />
+	<string id="kStringID_Permanent"		value="Permanent" />
+	<string id="kStringID_ResistTo"		value="Устойчивость:" />
+	<string id="kStringID_BuffSlow1"		value="Замедляет на %s%% навсегда." />
+	<string id="kStringID_BuffSlow2"		value="Замедляет на %s%% на %s секунд." />
+	<string id="kStringID_BuffSlow3"		value="%s%% шанс замедлить на %s%% навсегда." />
+	<string id="kStringID_BuffSlow4"		value="%s%% шанс замедлить на %s%% на %s секунд." />
+	<string id="kStringID_BuffColdSlow1"		value="Замораживает на %s%% навсегда." />
+	<string id="kStringID_BuffColdSlow2"		value="Замораживает на %s%% на %s секунд." />
+	<string id="kStringID_BuffColdSlow3"		value="%s%% шанс заморозки на %s%% навсегда." />
+	<string id="kStringID_BuffColdSlow4"		value="%s%% шанс заморозки на %s%% на %s секунд." />
+	<string id="kStringID_BuffStun1"		value="Парализует навсегда." />
+	<string id="kStringID_BuffStun2"		value="Парализует на %s секунд." />
+	<string id="kStringID_BuffStun3"		value="%s%% шанс парализовать навсегда." />
+	<string id="kStringID_BuffStun4"		value="%s%% шанс парализовать на %s секунд." />
+	<string id="kStringID_BuffBurn1"		value="Наносит урон огнем %s однократно." />
+	<string id="kStringID_BuffBurn2"		value="Наносит урон огнем %s в течение %s секунд." />
+	<string id="kStringID_BuffBurn3"		value="%s%% шанс однократного урона огнем %s." />
+	<string id="kStringID_BuffBurn4"		value="%s%% шанс урона огнем %s в течение %s секунд." />
+	<string id="kStringID_BuffPoison1"		value="Наносит урон ядом %s однократно." />
+	<string id="kStringID_BuffPoison2"		value="Наносит урон ядом %s в течение %s секунд." />
+	<string id="kStringID_BuffWound1"		value="Наносит урон от кровопотери %s однократно." />
+	<string id="kStringID_BuffWound2"		value="Наносит урон от кровопотери %s в течение %s секунд." />
+	<string id="kStringID_BuffWound3"		value="%s%% шанс однократной кровопотери %s." />
+	<string id="kStringID_BuffWound4"		value="%s%% шанс кровопотери %s в течение %s секунд." />
+	<string id="kStringID_GameName"		value="Рожденный в огне" />
+	<string id="kStringID_Lang"		value="Русский" />
+</package>

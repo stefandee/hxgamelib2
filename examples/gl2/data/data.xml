@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<shx:resources version="10" compress="true" 
+	xmlns:shx="http://mindless-labs.com/samhaxe"
+	xmlns:img="http://mindless-labs.com/samhaxe/modules/Image"
+	xmlns:swf="http://mindless-labs.com/samhaxe/modules/Swf"
+	xmlns:font="http://mindless-labs.com/samhaxe/modules/Font"
+	xmlns:snd="http://mindless-labs.com/samhaxe/modules/Sound"
+	xmlns:bin="http://mindless-labs.com/samhaxe/modules/Binary">
+
+	<!-- first frame, preloader assets -->
+	<shx:frame>
+		<font:ttf name="FontDefault"				import="fonts/emulator.ttf" />
+	<!--</shx:frame>-->
+
+	<!--<shx:frame>-->
+		<!-- binary data files -->
+		<bin:binary class="Data_Lang"				import="strings/langlib"/>
+		<bin:binary class="Data_SprLib"				import="sprites/sprlib" genclass="symbolAndClass"/>			
+		<bin:binary class="Data_SwfTest"			import="swf/Armor_Games_Intro_BoFTD.swf"/>
+		<!--<swf:swf class="Swf_LogoTest"				import="swf/logo_test.swf"/>-->
+		<swf:library				 				import="swf/logo_test.swf" symbols="true"/>
+		<swf:library				 				import="swf/logo_art_test.swf" symbols="true"/>
+
+		<!-- fonts -->
+
+		<!-- images -->
+
+
+		<!-- game data -->
+
+		<!-- music -->
+
+		<!-- sounds -->
+	</shx:frame>
+
+</shx:resources>
